@@ -10,7 +10,6 @@ You can view the notebook at the following URL:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/johngroves1/numpy-random/blob/main/numpy-random.ipynb)
 
-
 ## How to run the notebook
 
 1. Download [Anaconda](https://www.anaconda.com/products/individual).
